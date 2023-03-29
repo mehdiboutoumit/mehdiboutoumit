@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+Software+Engineering+Student;Web+Developping+Enthousiast;Quick+Learner)](https://git.io/typing-svg)
 
-# Random Jokes
+### Random Jokes
 ![Jokes Card](https://readme-jokes.vercel.app/api)
