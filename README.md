@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I am a Software Engineering Student;Web Developping Enthousiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+Software+Engineering+Student;Web+Developping+Enthousiast;Quick+Learner)](https://git.io/typing-svg)
 
 # Random Jokes
 ![Jokes Card](https://readme-jokes.vercel.app/api)
