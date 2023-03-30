@@ -1,4 +1,4 @@
-### Hi there 👋, I am EL MEHDI BOUTOUMIT
+<h1 align="cenetr"> Hi there 👋, I am EL MEHDI BOUTOUMIT </h1>
 
 <!--
 **mehdiboutoumit/mehdiboutoumit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
