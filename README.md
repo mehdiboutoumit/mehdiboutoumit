@@ -1,16 +1,11 @@
 <h1 align="center"> Hi there 👋, I am EL MEHDI BOUTOUMIT </h1>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Student;Web+Developer;Quick+Learner;Problem+Solving+Enthousiast" alt="Typing SVG">
+<a  href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Student;Web+Developer;Quick+Learner;Problem+Solving+Enthusiast&color=FFA500" alt="Typing SVG">
   </a>
-</div>
+  </div>
 
-
-<div align="center">
-  <h5> Random Programming Joke </h5>
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card">
-</div>
 
 👋 Welcome to my GitHub Profile! 🚀
 
@@ -19,6 +14,7 @@
 [![Languages](https://img.shields.io/badge/Languages-Java%20%7C%20JavaScript%20%7C%20PHP-yellow.svg)](#)<br>
 [![Frameworks](https://img.shields.io/badge/Frameworks-React%20%7C%20Node.js%20%7C%20Laravel%20%7C%20SpringBoot-brightgreen.svg)](#)<br>
 [![Tools](https://img.shields.io/badge/Tools-Figma%20%7C%20Git%20%7C%20GitHub%20%7C%20Scenebuilder-orange.svg)](#)<br>
+<hr>
 
 💻 About Me <br>
 I'm a software engineering student with a passion for building innovative and high-quality web applications. I specialize in frontend and backend development using a variety of languages and frameworks. My goal is to create user-friendly and efficient solutions that meet the clients' needs.
@@ -38,4 +34,10 @@ I believe in continuous learning and expanding my skillset. Currently, I'm focus
 If you're interested in collaborating or have any questions, feel free to reach out to me via email or LinkedIn. I'm always open to new opportunities and exciting projects!
 
 ✨ Thank you for visiting my profile! Have a great day! 😊
+  
+<div align="center">
+  <h5> Random Programming Joke </h5>
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card">
+</div>
+
 
