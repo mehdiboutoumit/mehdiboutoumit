@@ -25,7 +25,7 @@ I'm a software engineering student with a passion for building innovative and hi
 
 🔨 Skills <br>
 - Frontend: HTML, CSS, Bootstrap, React
-- Backend: Node.js, PHP
+- Backend:Laravel, Spring Boot, Node.js, PHP
 - Languages: Java, JavaScript
 
 🚀 Interests <br>
