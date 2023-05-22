@@ -1,20 +1,14 @@
 <h1 align="center"> Hi there 👋, I am EL MEHDI BOUTOUMIT </h1>
 
-<!--
-**mehdiboutoumit/mehdiboutoumit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=I+am+a+Software+Engineering+Student;Web+Developer;Quick+Learner;Problem+Solving+Enthousiast" alt="Typing SVG">
+  </a>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+Software+Engineering+Student;Web+Developping+Enthousiast;Quick+Learner)](https://git.io/typing-svg)
+<div align="center">
+  <h5> Random Programming Joke </h5>
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card">
+</div>
 
-### Random Jokes
-![Jokes Card](https://readme-jokes.vercel.app/api)
