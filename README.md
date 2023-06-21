@@ -6,8 +6,9 @@
   </a>
   </div>
 
-
+<p align="center">
 👋 Welcome to my GitHub Profile! 🚀
+</p>
 
 [![Software Engineer](https://img.shields.io/badge/Software%20Engineer-Junior-blue.svg)](#)<br>
 [![Web Development](https://img.shields.io/badge/Web%20Development-Frontend%20%7C%20Backend-green.svg)](#)<br>
@@ -15,6 +16,15 @@
 [![Frameworks](https://img.shields.io/badge/Frameworks-React%20%7C%20Node.js%20%7C%20Laravel%20%7C%20SpringBoot-brightgreen.svg)](#)<br>
 [![Tools](https://img.shields.io/badge/Tools-Figma%20%7C%20Git%20%7C%20GitHub%20%7C%20Scenebuilder-orange.svg)](#)<br>
 <hr>
+
+
+## GitHub Statistics
+
+<p align="center">
+   
+  ![](https://github-readme-stats.vercel.app/api?username=mehdiboutoumit)
+</p>
+
 
 💻 About Me <br>
 I'm a software engineering student with a passion for building innovative and high-quality web applications. I specialize in frontend and backend development using a variety of languages and frameworks. My goal is to create user-friendly and efficient solutions that meet the clients' needs.
