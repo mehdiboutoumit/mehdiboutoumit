@@ -39,9 +39,9 @@
 I'm a software engineering student with a passion for building innovative and high-quality web applications. I specialize in frontend and backend development using a variety of languages and frameworks. My goal is to create user-friendly and efficient solutions that meet the clients' needs.
 
 🔨 Skills <br>
-- Frontend: HTML, CSS, Bootstrap, React
-- Backend:Laravel, Spring Boot, Node.js, PHP
-- Languages: Java, JavaScript
+- Frontend: <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> , <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>, <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>, <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+- Backend:Laravel, Spring Boot, <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>, PHP
+- Languages: <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>, <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
 🚀 Interests <br>
 I enjoy working with cutting-edge technologies and keeping up with the latest industry trends. I'm particularly interested in agile methodologies and have experience working in teams following Scrum practices. Collaboration, adaptability, and problem-solving are some of my strengths.
