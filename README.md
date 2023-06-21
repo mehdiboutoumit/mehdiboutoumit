@@ -20,12 +20,15 @@
 
 ## GitHub Statistics
 
-<p align="center">
-   
-  ![](https://github-readme-stats.vercel.app/api?username=mehdiboutoumit)
-</p>
+<div align="center">
+  ![](https://github-readme-stats.vercel.app/api?username=mehdiboutoumit) 
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=mehdiboutoumit)](https://git.io/streak-stats)
+</div>
+<div align="center">
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=mehdiboutoumit)](https://git.io/streak-stats)
+</div>
 
-
+<hr></hr>
 💻 About Me <br>
 I'm a software engineering student with a passion for building innovative and high-quality web applications. I specialize in frontend and backend development using a variety of languages and frameworks. My goal is to create user-friendly and efficient solutions that meet the clients' needs.
 
