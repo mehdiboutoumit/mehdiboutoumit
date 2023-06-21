@@ -21,11 +21,12 @@
 ## GitHub Statistics
 
 <div align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=mehdiboutoumit) 
+
+  ![](https://github-readme-stats.vercel.app/api?username=mehdiboutoumit&theme=dark)
 </div>
-<div align="center">
-    ![GitHub Streak](https://streak-stats.demolab.com/?user=mehdiboutoumit)
-</div>
+<p align="center">
+    [![Top Langs](https://github-readme-stats.vercel.app/api?username=mehdiboutoumit&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
+</p>
 
 <hr></hr>
 💻 About Me <br>
