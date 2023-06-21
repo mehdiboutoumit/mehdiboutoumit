@@ -1,20 +1,26 @@
 <h1 align="center"> Hi there 👋, I am EL MEHDI BOUTOUMIT </h1>
 
+
 <div align="center">
 <a  href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Student;Web+Developer;Quick+Learner;Problem+Solving+Enthusiast&color=FFA500" alt="Typing SVG">
   </a>
   </div>
+  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="center">
 👋 Welcome to my GitHub Profile! 🚀
 </p>
+
 
 [![Software Engineer](https://img.shields.io/badge/Software%20Engineer-Junior-blue.svg)](#)<br>
 [![Web Development](https://img.shields.io/badge/Web%20Development-Frontend%20%7C%20Backend-green.svg)](#)<br>
 [![Languages](https://img.shields.io/badge/Languages-Java%20%7C%20JavaScript%20%7C%20PHP-yellow.svg)](#)<br>
 [![Frameworks](https://img.shields.io/badge/Frameworks-React%20%7C%20Node.js%20%7C%20Laravel%20%7C%20SpringBoot-brightgreen.svg)](#)<br>
 [![Tools](https://img.shields.io/badge/Tools-Figma%20%7C%20Git%20%7C%20GitHub%20%7C%20Scenebuilder-orange.svg)](#)<br>
+<hr>
+<hr>
+<hr>
 <hr>
 
 
@@ -24,7 +30,9 @@
 
   ![](https://github-readme-stats.vercel.app/api?username=mehdiboutoumit&theme=dark)
 </div>
-
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehdiboutoumit&theme=tokyonight" alt="mehdiboutoumit" /></p>
+</div>
 
 <hr></hr>
 💻 About Me <br>
@@ -43,6 +51,7 @@ I believe in continuous learning and expanding my skillset. Currently, I'm focus
 
 📫 Let's Connect <br>
 If you're interested in collaborating or have any questions, feel free to reach out to me via email or LinkedIn. I'm always open to new opportunities and exciting projects!
+<br><a align="center" href="https://linkedin.com/in/el-mehdi-boutoumit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
 
 ✨ Thank you for visiting my profile! Have a great day! 😊
   
@@ -50,5 +59,7 @@ If you're interested in collaborating or have any questions, feel free to reach 
   <h5> Random Programming Joke </h5>
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card">
 </div>
+
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 
 
