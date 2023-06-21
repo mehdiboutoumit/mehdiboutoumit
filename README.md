@@ -22,7 +22,6 @@
 
 <div align="center">
   ![](https://github-readme-stats.vercel.app/api?username=mehdiboutoumit) 
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=mehdiboutoumit)](https://git.io/streak-stats)
 </div>
 <div align="center">
     [![GitHub Streak](https://streak-stats.demolab.com/?user=mehdiboutoumit)](https://git.io/streak-stats)
