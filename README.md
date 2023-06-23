@@ -17,7 +17,7 @@
 [![Web Development](https://img.shields.io/badge/Web%20Development-Frontend%20%7C%20Backend-green.svg)](#)<br>
 [![Languages](https://img.shields.io/badge/Languages-Java%20%7C%20JavaScript%20%7C%20PHP-yellow.svg)](#)<br>
 [![Frameworks](https://img.shields.io/badge/Frameworks-React%20%7C%20Node.js%20%7C%20Laravel%20%7C%20SpringBoot-brightgreen.svg)](#)<br>
-[![Tools](https://img.shields.io/badge/Tools-Figma%20%7C%20Git%20%7C%20GitHub%20%7C%20Scenebuilder-orange.svg)](#)<br>
+[![Tools](https://img.shields.io/badge/Tools-Figma%20%7C%20Git%20%7C%20GitHub%20%7C%20Postman%20%7C%20Scenebuilder-orange.svg)](#)<br>
 <hr>
 <hr>
 <hr>
