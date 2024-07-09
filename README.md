@@ -26,13 +26,15 @@
 
 ## GitHub Statistics
 
+
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehdiboutoumit&theme=tokyonight" alt="mehdiboutoumit" /></p>
+</div>
 <div align="center">
 
   ![](https://github-readme-stats.vercel.app/api?username=mehdiboutoumit&theme=dark)
 </div>
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehdiboutoumit&theme=tokyonight" alt="mehdiboutoumit" /></p>
-</div>
+
 
 <hr></hr>
 💻 About Me <br>
