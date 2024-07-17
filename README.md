@@ -6,7 +6,11 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Student;Web+Developer;Quick+Learner;Problem+Solving+Enthusiast&color=FFA500" alt="Typing SVG">
   </a>
   </div>
-  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!--   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+ -->
+<!--    <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+ -->
+   <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 <p align="center">
 👋 Welcome to my GitHub Profile! 🚀
