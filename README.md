@@ -18,10 +18,10 @@
 
 
 [![Software Engineer](https://img.shields.io/badge/Software%20Engineer-Junior-blue.svg)](#)<br>
-[![Web Development](https://img.shields.io/badge/Web%20Development-Frontend%20%7C%20Backend-green.svg)](#)<br>
-[![Languages](https://img.shields.io/badge/Languages-Java%20%7C%20JavaScript%20%7C%20Python-yellow.svg)](#)<br>
-[![Frameworks](https://img.shields.io/badge/Frameworks-SpringBoot%20%7C%20Angular%20%7C%20React%20%7C%20Node.js%20%7C%20Laravel-brightgreen.svg)](#)<br>
-[![Tools](https://img.shields.io/badge/Tools-Docker%20%7C%20K8s%20%7C%20Figma%20%7C%20Git%20%7C%20GitHub%20%7C%20Postman%20%7C%20Scenebuilder-orange.svg)](#)<br>
+[![Web Development](https://img.shields.io/badge/Web%20Development-Backend%20%7C%20Frontend-green.svg)](#)<br>
+[![Languages](https://img.shields.io/badge/Languages-Java%20%7C%20JavaScript%20%7C%20TypeScript-yellow.svg)](#)<br>
+[![Frameworks](https://img.shields.io/badge/Frameworks-SpringBoot%20%7C%20Angular%20%7C%20React%20%7C%20Node.js%20%7C%20Express%20%7C%20JUnit-brightgreen.svg)](#)<br>
+[![Tools](https://img.shields.io/badge/Tools-Docker%20%7C%20K8s%20%7C%20Git%20%7C%20GitHub%20%7C%20GitLab%20%7C%20Postman-orange.svg)](#)<br>
 <hr>
 <hr>
 <hr>
